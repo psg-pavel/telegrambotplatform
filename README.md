@@ -6,3 +6,4 @@ IMPORTANT!
 4. After moving all the files to your server and correctly filling in the configuration and library files, the entire system should work correctly.
 login: admin
 password: admin
+While working, you will be able to create accounts for your customers and provide access to them. In these accounts, you can create telegram bots and view statistics.
